@@ -1,9 +1,12 @@
 # Machine Learning Lecture
 
-+ General Introduction of Neural Network
-+ Logistic regression
-+ Neural Network
-+ Word2Vec
+## Contents
++ Tensorflow basic operations
++ Linear regression
++ Polynomial regression
++ Multi-layer Perceptron
++ Dropout
++ Batch normalization
 
 - - -
 + Author : Sung-ju Kim
